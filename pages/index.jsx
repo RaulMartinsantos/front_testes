@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <h1>Samengo!</h1>
+        <h1>Samengo! :c</h1>
     )
 }
 
