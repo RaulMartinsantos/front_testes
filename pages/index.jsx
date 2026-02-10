@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Samengo! :c</h1>;
+  return <h1>Vai tomar no cu AODA!!!</h1>;
 }
 
 export default Home;
